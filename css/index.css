@@ -2631,10 +2631,10 @@ figure.gallery-group .gallery-group-name:after {
   font-size: inherit;
 }
 #page-header a {
-  color: #eee;
+  color: #333;
 }
 #page-header a:hover {
-  color: #fff;
+  color: #333;
 }
 #page-header.fixed {
   position: fixed;
